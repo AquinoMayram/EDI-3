@@ -1,5 +1,3 @@
-//Added by Juan Cruz Poli
-
 #ifndef I_MESSAGE_H
 #define I_MESSAGE_H
 
